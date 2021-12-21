@@ -1,0 +1,5 @@
+url: https://dickoa.github.io/unhcrtemplate
+
+template:
+  package: unhcrtemplate
+  bootstrap: 5

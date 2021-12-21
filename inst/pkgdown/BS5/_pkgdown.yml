@@ -1,5 +1,4 @@
 template:
-  bootstrap: 5
   bslib:
     bg: "white"
     fg: "#222222"
