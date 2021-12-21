@@ -14,3 +14,5 @@ Description: This is a private template for use by UNHCR packages.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/vidonne/unhcrtemplate
+BugReports: https://github.com/vidonne/unhcrtemplate/issues
