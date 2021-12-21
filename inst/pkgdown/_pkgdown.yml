@@ -1,0 +1,21 @@
+template:
+  bootstrap: 5
+  bslib:
+    bg: "white"
+    fg: "#222222"
+    base_font: {google: "Lato"}
+    code_font: {google: "Source Code Pro"}
+    blue: "#0072BC"
+    red: "#EF4A60"
+    yellow: "#FAEB00"
+    green: "#00873E"
+    primary: "#0072BC"
+    secondary: "#666666"
+    success: "#00873E"
+    info: "#8EBEFF"
+    warning: "#E1CC0D"
+    danger: "#EF4A60"
+    link-decoration: none
+    link-hover-color: "#222222"
+    link-hover-decoration: underline
+    body-color: "#222222"
