@@ -1,0 +1,16 @@
+Package: unhcrtemplate
+Type: Package
+Title: 'pkgdown' Templates for UNHCR Packages
+Version: 0.1.0
+Authors@R:
+    c(person(given = "Cedric",
+           family = "Vidonne",
+           role = c("aut", "cre"),
+           email = "vidonne@unhcr.org"),
+      person(family = "UNHCR",
+             role = "cph"))
+Description: This is a private template for use by UNHCR packages.
+   Please don't use for your own code.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
