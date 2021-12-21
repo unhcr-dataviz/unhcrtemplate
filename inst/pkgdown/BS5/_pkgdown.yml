@@ -1,7 +1,6 @@
+url: https://vidonne.github.io/unhcrthemes/
 template:
   bslib:
-    bg: "white"
-    fg: "#222222"
     base_font: {google: "Lato"}
     code_font: {google: "Source Code Pro"}
     blue: "#0072BC"
