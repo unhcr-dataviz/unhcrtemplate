@@ -4,13 +4,13 @@ Title: 'pkgdown' Templates for UNHCR Packages
 Version: 0.1.0
 Authors@R:
     c(person(given = "Cedric",
-           family = "Vidonne",
-           role = c("aut", "cre"),
-           email = "vidonne@unhcr.org"),
-      person(given = "Cedric",
-           family = "Vidonne",
-           role = "ctb",
-           email = "mail@ahmadoudicko.com"),
+             family = "Vidonne",
+             role = c("aut", "cre"),
+             email = "vidonne@unhcr.org"),
+      person(given = "Ahmadou",
+             family = "Dicko",
+             role = "ctb",
+             email = "mail@ahmadoudicko.com"),
       person(family = "UNHCR",
              role = "cph"))
 Description: This is a private template for 'pkgdown' for use by UNHCR packages. Please do not use this package for your own code.

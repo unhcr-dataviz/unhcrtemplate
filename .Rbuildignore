@@ -1,7 +1,9 @@
+^\.travis\.yml$
+^README\.Rmd$
+^pkgdown$
+^_pkgdown\.yml$
+^docs$
+^LICENSE\.md$
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^LICENSE\.md$
-^README\.Rmd$
 ^\.github$
-docs/
-^\._pkgdown.yml$
