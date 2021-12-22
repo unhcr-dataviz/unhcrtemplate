@@ -20,3 +20,5 @@ LazyData: true
 URL: https://github.com/vidonne/unhcrtemplate
 BugReports: https://github.com/vidonne/unhcrtemplate/issues
 RoxygenNote: 7.1.2
+Imports:
+    pkgdown (>= 2.0.1)
