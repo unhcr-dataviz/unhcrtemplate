@@ -1,14 +1,12 @@
+url: https://vidonne.github.io/unhcrthemes/
 template:
-  bootstrap: 5
   bslib:
-    bg: "white"
-    fg: "#222222"
     base_font: {google: "Lato"}
     code_font: {google: "Source Code Pro"}
     blue: "#0072BC"
     red: "#EF4A60"
     yellow: "#FAEB00"
-    green: "#00873E"
+    green: "#00B398"
     primary: "#0072BC"
     secondary: "#666666"
     success: "#00873E"

@@ -4,15 +4,21 @@ Title: 'pkgdown' Templates for UNHCR Packages
 Version: 0.1.0
 Authors@R:
     c(person(given = "Cedric",
-           family = "Vidonne",
-           role = c("aut", "cre"),
-           email = "vidonne@unhcr.org"),
+             family = "Vidonne",
+             role = c("aut", "cre"),
+             email = "vidonne@unhcr.org"),
+      person(given = "Ahmadou",
+             family = "Dicko",
+             role = "ctb",
+             email = "mail@ahmadoudicko.com"),
       person(family = "UNHCR",
              role = "cph"))
-Description: This is a private template for use by UNHCR packages.
-   Please don't use for your own code.
+Description: This is a private template for 'pkgdown' for use by UNHCR packages. Please do not use this package for your own code.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/vidonne/unhcrtemplate
 BugReports: https://github.com/vidonne/unhcrtemplate/issues
+RoxygenNote: 7.1.2
+Imports:
+    pkgdown (>= 2.0.1)
