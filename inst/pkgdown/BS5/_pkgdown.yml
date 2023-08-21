@@ -19,6 +19,5 @@ template:
     info: "#8EBEFF"
     warning: "#E1CC0D"
     link-decoration: none
-    link-hover-color: "#0072BC"
     link-hover-decoration: underline
     mark-bg: "#FFF9CB"
