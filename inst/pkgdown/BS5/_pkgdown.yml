@@ -21,3 +21,8 @@ template:
     link-decoration: none
     link-hover-decoration: underline
     mark-bg: "#FFF9CB"
+
+authors:
+  UNHCR:
+    href: https://www.unhcr.org/
+    html: <img src='https://raw.githubusercontent.com/vidonne/unhcrdesign/master/inst/resources/logo/unhcr_logo_blue.svg' alt='UNHCR' width='72' />

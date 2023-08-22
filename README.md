@@ -5,12 +5,10 @@
 
 <!-- badges: start -->
 
-[![Project Status: WIP – Initial development is in progress, but there
-has not yet been a stable, usable release suitable for the
-public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R-CMD-check](https://github.com/unhcr-dataviz/unhcrtemplate/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/unhcr-dataviz/unhcrtemplate/actions/workflows/R-CMD-check.yaml)
-[![CRAN
-status](https://www.r-pkg.org/badges/version/unhcrtemplate)](https://CRAN.R-project.org/package=unhcrtemplate)
 <!-- badges: end -->
 
 ## Overview
@@ -25,4 +23,12 @@ and [rotemplate](https://github.com/ropensci-org/rotemplate).
 
 For all sites, ensure that `DESCRIPTION` contains:
 
-    Config/Needs/website: unhcrtemplate
+    Config / Needs / website:unhcr - dataviz / unhcrtemplate
+
+and that `_pkgdown.yml` contains:
+
+``` yaml
+template:
+  package: unhcrtemplate
+  bootstrap: 5
+```

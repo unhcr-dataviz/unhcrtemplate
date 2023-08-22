@@ -6,7 +6,7 @@ Authors@R:
     c(person(given = "Cedric",
              family = "Vidonne",
              role = c("aut", "cre"),
-             email = "vidonne@unhcr.org"),
+             email = "cedric@vidonne.me"),
       person(given = "Ahmadou",
              family = "Dicko",
              role = "ctb",
@@ -17,8 +17,8 @@ Description: This is a private template for 'pkgdown' for use by UNHCR packages.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/vidonne/unhcrtemplate
-BugReports: https://github.com/vidonne/unhcrtemplate/issues
+URL: https://github.com/unhcr-dataviz/unhcrtemplate
+BugReports: https://github.com/unhcr-dataviz/unhcrtemplate/issues
 RoxygenNote: 7.1.2
 Imports:
     pkgdown (>= 2.0.1)
