@@ -23,7 +23,7 @@ and [rotemplate](https://github.com/ropensci-org/rotemplate).
 
 For all sites, ensure that `DESCRIPTION` contains:
 
-    Config / Needs / website:unhcr - dataviz / unhcrtemplate
+    Config/Needs/website: unhcr-dataviz/unhcrtemplate
 
 and that `_pkgdown.yml` contains:
 
