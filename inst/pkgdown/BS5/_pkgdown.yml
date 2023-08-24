@@ -25,4 +25,4 @@ template:
 authors:
   UNHCR:
     href: https://www.unhcr.org/
-    html: <img src='man/figures/logo.svg' alt='UNHCR' width='120' />
+    html: <img src='https://raw.githubusercontent.com/unhcr-dataviz/unhcrtemplate/master/man/figures/logo.svg' alt='UNHCR' width='120' />
