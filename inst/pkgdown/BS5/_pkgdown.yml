@@ -26,3 +26,10 @@ authors:
   UNHCR:
     href: https://www.unhcr.org/
     html: <img src='https://raw.githubusercontent.com/unhcr-dataviz/unhcrtemplate/master/man/figures/logo.svg' alt='UNHCR' width='120' />
+
+footer:
+  structure:
+    left: developed_by
+    right: unhcr_logo
+  components:
+    unhcr_logo: <a href="https://www.unhcr.org/" target="_blank" rel="noopener noreferrer"><img src='https://raw.githubusercontent.com/unhcr-dataviz/unhcrtemplate/master/man/figures/logo.svg' alt='UNHCR logo' style='max-height:2.5rem' /></a>
